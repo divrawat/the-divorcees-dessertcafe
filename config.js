@@ -31,7 +31,7 @@ export const logo = <img src={`${LOGO_URL}`} alt="Logo" className="h-[75px] w-[7
 export const APP_NAME = 'The Divorcees Dessert Cafe';
 export const NavbarName = "The Divorcees Dessert Cafe";
 
-export const APP_DESCRIPTION = `Read ${MANGA_NAME} manga online at ${DOMAIN}. Hana decides to leave her past behind and move to a quaint town where she opens a charming dessert cafe. Determined to start afresh, she channels her passion for baking into creating a haven filled with delectable sweets and a warm, inviting atmosphere.`;
+export const APP_DESCRIPTION = `Read ${MANGA_NAME} manhwa or manga all chapters online. Hana decides to leave her past behind and move to a quaint town where she opens a charming dessert cafe. Determined to start afresh, she channels her passion for baking into creating a haven filled with delectable sweets and a warm, inviting atmosphere.`;
 
 export const DISQUS_SHORTNAME = "my-cms-7";
 
